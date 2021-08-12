@@ -1,6 +1,6 @@
 # Circuitpython_CLUE_Egg_Quest_Game
 ![Image of Egg Quest Game Cover](https://github.com/jisforjt/Circuitpython_CLUE_Egg_Quest_Game/blob/main/images/Egg_Quest.PNG)
-Brave adventurer, you are quested to collect as many eggs as you can from the four realms. Be quick because the gates will close soon and once they are you will be trapped forever.
+Brave adventurer, you are quested to collect as many eggs as you can from the four realms. Be quick because the gates will close soon and once they are you may be trapped forever.
 
 This game was designed to be used with Adafruit's [CLUE](https://www.adafruit.com/product/4500) and Yahboom's Micro:bit Compact [Gamepad](http://www.yahboom.net/study/SGH). 
 
