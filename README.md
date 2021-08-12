@@ -1,8 +1,9 @@
 # Circuitpython_CLUE_Egg_Quest_Game
-This game was designed to be used with the Adafruit's CLUE and Yahboom's gamepad. It
-
 ![Image of Egg Quest Game Cover](https://github.com/jisforjt/Circuitpython_CLUE_Egg_Quest_Game/blob/main/images/Egg_Quest.PNG)
-This is a higher-level library to allow Adafruit's [CLUE](https://www.adafruit.com/product/4500) and Yahboom's Micro:bit Compact [Gamepad](http://www.yahboom.net/study/SGH) to communicate while maintaining all the functionality of the CLUE, except for touch features.
+Brave adventurer, you are quested to collect as many eggs as you can from the four realms. Be quick because the gates will close soon and once they are you will be trapped forever.
+
+This game was designed to be used with Adafruit's [CLUE](https://www.adafruit.com/product/4500) and Yahboom's Micro:bit Compact [Gamepad](http://www.yahboom.net/study/SGH). 
+
 
 ## Dependencies
 This library depends on:
