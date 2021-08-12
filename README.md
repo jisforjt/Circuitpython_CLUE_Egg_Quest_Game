@@ -20,6 +20,7 @@ This library depends on:
 Follow Adafruit's [CLUE Overview](https://learn.adafruit.com/adafruit-clue) instructions under _CircuitPython on CLUE_. During the installation process, you will download the latest _library bundle_ and transfer several libraries to the CLUE. Also transfer the dependencies listed above to your _lib folder_.
 Download this repository and copy _main.py_, _jisforjt_egg_quest.py_, and _jt_sprites.bmp_ on to your CIRCUITPY drive.
 
+
 ## Directory
 ```
 CIRCUITPY
@@ -29,12 +30,6 @@ CIRCUITPY
 |-jt_sprites.bmp
 ```
 
-
-## Usage
-You can create a new main.py file and use:
-```python
-from jisforjt_yahboom_gamepad import gamepad
-```
 
 ## License
 The code of the repository is made available under the terms of the MIT license. See license.md for more information.
