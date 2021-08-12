@@ -19,8 +19,8 @@ Follow Adafruit's [CLUE Overview](https://learn.adafruit.com/adafruit-clue) inst
 Download this repository and copy _main.py_, _jisforjt_egg_quest.py_, and _jt_sprites.bmp_ on to your CIRCUITPY drive.
 
 ## Directory
-CIRCUITPY
 ```
+CIRCUITPY
 |-lib (folder)
 |-main.py
 |-jisforjt_egg_quest.py
