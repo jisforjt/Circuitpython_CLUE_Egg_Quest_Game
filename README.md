@@ -22,7 +22,8 @@ Download this repository and copy _main.py_, _jisforjt_egg_quest.py_, and _jt_sp
 
 
 ## Directory
-``` CIRCUITPY
+``` 
+CIRCUITPY
 |-lib (folder)
 |-main.py
 |-jisforjt_egg_quest.py
